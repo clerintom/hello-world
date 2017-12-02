@@ -1,2 +1,2 @@
 # hello-world
-Sample directory
+This is my helo-world project
